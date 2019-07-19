@@ -22,4 +22,4 @@ preview:
     pullPolicy: IfNotPresent
 
   env:
-    hello: world
+    MYURL: https://jenkins-x.io/documentation/
